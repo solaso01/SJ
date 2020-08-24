@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a47a3fd9-c910-4b57-b1a3-52d1072dea27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ezKH5qsnDydFl00QDhPEnUfBQK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OracleES" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\SJZY_OGG_ES\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sjzy.utils" />
+      <recent name="com.sjzy.application" />
+      <recent name="com.sjzy" />
+      <recent name="" />
+      <recent name="com.sjzy.conf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\SJZY_OGG_ES\src\lib" />
+      <recent name="C:\Users\Administrator\Desktop\SJZY_OGG_ES\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\SJZY_OGG_ES\src\main\java\com\sjzy\utils" />
+      <recent name="C:\Users\Administrator\Desktop\SJZY_OGG_ES\src\main\java\com\sjzy\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.oracleToEs (1)">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sjzy.application.Application" />
+      <module name="SJZY_OGG_ES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sjzy.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsCreateTableInfo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EsCreateTableInfo02" />
+      <module name="SJZY_OGG_ES" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oracleToEs (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sjzy.application.oracleToEs" />
+      <module name="SJZY_OGG_ES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sjzy.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oracleToEs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oracleToEs" />
+      <module name="SJZY_OGG_ES" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="SJZY_OGG_ES" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.oracleToEs (1)" />
+        <item itemvalue="Application.EsCreateTableInfo02" />
+        <item itemvalue="Application.oracleToEs" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a47a3fd9-c910-4b57-b1a3-52d1072dea27" name="Default Changelist" comment="" />
+      <created>1595318891042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595318891042</updated>
+      <workItem from="1595318896292" duration="6179000" />
+      <workItem from="1595326392671" duration="6492000" />
+      <workItem from="1595379581707" duration="15914000" />
+      <workItem from="1595465588510" duration="6249000" />
+      <workItem from="1595576164595" duration="11930000" />
+      <workItem from="1595642680048" duration="5123000" />
+      <workItem from="1595811543646" duration="33579000" />
+      <workItem from="1595897614605" duration="4563000" />
+      <workItem from="1595913757686" duration="19061000" />
+      <workItem from="1595986882912" duration="1030000" />
+      <workItem from="1596006704801" duration="6281000" />
+      <workItem from="1596070770024" duration="19199000" />
+      <workItem from="1596166637336" duration="3639000" />
+      <workItem from="1596443909668" duration="4539000" />
+      <workItem from="1596506143805" duration="7479000" />
+      <workItem from="1596609301172" duration="3957000" />
+      <workItem from="1596675918323" duration="2780000" />
+      <workItem from="1596761593622" duration="2413000" />
+      <workItem from="1597138580037" duration="12022000" />
+      <workItem from="1597193805150" duration="3813000" />
+      <workItem from="1597197863398" duration="9860000" />
+      <workItem from="1597218965555" duration="5479000" />
+      <workItem from="1597716259946" duration="12833000" />
+      <workItem from="1597801228500" duration="5581000" />
+      <workItem from="1597976187783" duration="6483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595326694430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="405" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595326694430" />
+    <state x="958" y="243" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1595588583336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="958" y="243" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595588583336" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1595845647946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595845647946" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597197089736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597197089736" />
+    <state x="1301" y="313" key="FileChooserDialogImpl" timestamp="1597976242232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1301" y="313" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597976242232" />
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom" timestamp="1598010344884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598010344884" />
+    <state width="1877" height="271" key="GridCell.Tab.0.center" timestamp="1598010344884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598010344884" />
+    <state width="1877" height="271" key="GridCell.Tab.0.left" timestamp="1598010344880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598010344880" />
+    <state width="1877" height="271" key="GridCell.Tab.0.right" timestamp="1598010344884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598010344884" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1595850371444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595850371444" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1595850371444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595850371444" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1595850371444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595850371444" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1595850371444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595850371444" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1597197424753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597197424753" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1597716255848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597716255848" />
+    <state x="499" y="217" key="new project wizard" timestamp="1597804927347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="217" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597804927347" />
+    <state x="833" y="329" key="run.anything.popup" timestamp="1595324657391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="329" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595324657391" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595829088712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595829088712" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/kuduToEs.java</url>
+          <line>22</line>
+          <properties class="com.msig.application.kuduToEs" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
